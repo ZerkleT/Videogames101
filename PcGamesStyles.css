@@ -1,0 +1,13 @@
+.heading {
+    text-align: center;
+}
+body {
+    background-color:lightslategray
+}
+.ULTRAKILL {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:crimson;
+}
+.ULTRAKILL:visited {
+    color: crimson
+}
