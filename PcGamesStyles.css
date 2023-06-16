@@ -2,7 +2,8 @@
     text-align: center;
 }
 body {
-    background-color:lightslategray
+    background-color:lightslategray;
+    font-family: sans-serif;
 }
 .ULTRAKILL {
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
